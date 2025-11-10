@@ -6,36 +6,39 @@ version: "v1.0"
 date: "2025-11-14"
 ---
 
-# 🌕🌕 **PHASE 3 — FULL MOON**  
-## **Part 3 — Mini Essay #3 + Transition**  
-### *Masala & Magnolia: A Journey of Recipes and Stories from Our Maharashtrian & Southern Kitchen*
+# 🌕🌕 **PHASE 3 — FULL MOON**
+
+## **Part 3 — Mini Essay #3 + Transition**
+
+### _Masala & Magnolia: A Journey of Recipes and Stories from Our Maharashtrian & Southern Kitchen_
 
 ---
 
-# 🌕✨ **MINI ESSAY #3 — Full Moon Reflection**  
-*(Placed exactly as required: after Full Moon recipes and before Waning Moon)*
+# 🌕✨ **MINI ESSAY #3 — Full Moon Reflection**
+
+_(Placed exactly as required: after Full Moon recipes and before Waning Moon)_
 
 There’s a certain kind of clarity that only arrives at the height of fullness —  
-a clarity that doesn’t whisper, but glows.  
+a clarity that doesn’t whisper, but glows.
 
 During the Full Moon phase of life, everything feels louder:  
 our hunger for connection,  
 our longing for peace,  
-our desire to be seen wholly and without hesitation.  
+our desire to be seen wholly and without hesitation.
 
 This is when food becomes a mirror.  
 A reminder that the flavors we reach for —  
 rich, layered, bright, unapologetic —  
-often reflect the parts of ourselves we’re finally ready to acknowledge.  
+often reflect the parts of ourselves we’re finally ready to acknowledge.
 
 Full Moon meals are not shy.  
 They’re not subtle.  
-They demand space on the plate and in the soul.  
+They demand space on the plate and in the soul.
 
 And so we honor this fullness.  
 We honor the beauty in being “too much,”  
 the boldness in seasoning to taste,  
-the relief in allowing ourselves to feel deeply.  
+the relief in allowing ourselves to feel deeply.
 
 As this moon reaches its height,  
 may your kitchen feel like an altar  
@@ -45,19 +48,21 @@ even when the world asks you to dim.
 
 ---
 
-# 🌘✨ **TRANSITION INTO PHASE 4 — Waning Moon**  
+# 🌘✨ **TRANSITION INTO PHASE 4 — Waning Moon**
+
 The Full Moon glows its brightest… and then it begins to soften.
 
 As we move into the Waning Moon, the energy shifts gently:  
 from expansion to introspection,  
 from boldness to grounding,  
-from expressive radiance to steady nourishment.  
+from expressive radiance to steady nourishment.
 
-This next chapter honors:  
-- slow comforts,  
-- warm bowls,  
-- tender flavors,  
-- and the quiet courage of letting go.  
+This next chapter honors:
+
+- slow comforts,
+- warm bowls,
+- tender flavors,
+- and the quiet courage of letting go.
 
 Where the Full Moon was a celebration,  
 the Waning Moon becomes a companion —  
@@ -69,11 +74,11 @@ Let’s step into this softer light together.
 
 ---
 
-# ✅ End of Phase 3 — Part 3  
+# ✅ End of Phase 3 — Part 3
+
 Next:  
-✅ **Phase 4 — Waning Moon: Part 1A (Waning Moon Intro + Mini Essay #4 + Recipes 1–10)**  
+✅ **Phase 4 — Waning Moon: Part 1A (Waning Moon Intro + Mini Essay #4 + Recipes 1–10)**
 
 ---
-
 
 ✅ Phase 3 — Part 3 is complete.

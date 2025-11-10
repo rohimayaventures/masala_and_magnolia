@@ -8,8 +8,10 @@ date: "2025-11-12"
 ---
 
 # 🌙 **Phase 1 — New Moon**
+
 ## **Part 6 — Mini Essay #1 + Transition to Waxing Moon**
-### *Masala & Magnolia: A Journey of Recipes and Stories from Our Maharashtrian & Southern Kitchen*
+
+### _Masala & Magnolia: A Journey of Recipes and Stories from Our Maharashtrian & Southern Kitchen_
 
 The New Moon section of this book represents beginnings —
 not the loud, celebratory kind,
@@ -21,12 +23,13 @@ Now we arrive at the interlude:
 the first required mini essay that bridges New Moon into Waxing Moon.
 
 Below is **Mini Essay #1 exactly as required — unchanged**
-(Your instruction: *Place this after New Moon, before Waxing Moon*).
+(Your instruction: _Place this after New Moon, before Waxing Moon_).
 
 ---
 
 # 🌙✨ **MINI ESSAY #1**
-*(Placed exactly as required, unchanged in content or tone)*
+
+_(Placed exactly as required, unchanged in content or tone)_
 
 **Mini Essay #1 — The Softest Beginnings**
 
@@ -60,7 +63,8 @@ but because you deserve to.
 ---
 
 # 🌙➡️ **Transition to Waxing Moon**
-### *From Soft Beginnings to Steady Growth*
+
+### _From Soft Beginnings to Steady Growth_
 
 You’ve reached the end of our New Moon chapter.
 You’ve tasted the gentleness, the grounding, the simplicity.
@@ -75,6 +79,7 @@ The momentum after the quiet.
 The moment you begin to reach outward with just a little more confidence.
 
 This next section carries a different kind of heartbeat:
+
 - bolder flavors
 - deeper techniques
 - growing creativity
@@ -90,6 +95,7 @@ Turn the page.
 We rise now.
 
 # 🌕 **Begin Phase 2 — Waxing Moon**
+
 A new chapter,
 a new light,
 a new hunger.
