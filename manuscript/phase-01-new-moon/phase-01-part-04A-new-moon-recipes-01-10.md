@@ -39,6 +39,391 @@ A beginning carved from softness.
 ---
 
 # 🌙✨ **RECIPE 01 — Varan (Simple Toor Dal)**  
+**Cultural Tag:** Maharashtrian Classic · Everyday Comfort
+
+## ❤️ *The Story*  
+If love had a temperature, it would be the warmth of dal simmering quietly on the stove.
+
+This was the first dish Prasad ever asked for — not because it was fancy, but because it was *home.*
+
+---
+
+## ✅ Ingredients
+- Toor dal — **1 cup (200g)**  
+- Water — **3 cups (720ml)**  
+- Turmeric — **½ tsp (2g)**  
+- Salt — **1 tsp (5g)**  
+- Ghee — **1 tbsp (14g)**  
+- Cumin seeds — **1 tsp (3g)**  
+- Hing — **pinch**  
+- Optional jaggery — **½ tsp (2g)**  
+- Optional cilantro — **2 tbsp (4g)**
+
+---
+
+## ✅ Instructions
+1. Rinse dal until water runs mostly clear.  
+2. Add dal, water, turmeric, salt to pot or pressure cooker.  
+3. Cook until soft (25 minutes or 3 whistles).  
+4. Mash lightly.  
+5. Heat ghee → add cumin → brown well.  
+6. Add hing → pour over dal.  
+7. Adjust seasoning, add jaggery if desired.  
+
+---
+
+## 🍚 Beginner Walkthrough  
+Rinsing dal is rinsing away the day.  
+Let it soften at its own pace.  
+Let the tadka perfume your home.  
+Pour it like a blessing.  
+
+---
+
+## ✅ Troubleshooting
+- Too thick → add hot water  
+- Too thin → simmer  
+- Won’t soften → ⅛ tsp baking soda  
+
+---
+
+## ✅ Variations
+- Vegan: use coconut oil  
+- Add chilies for heat  
+- Add coconut milk for creaminess  
+
+---
+
+## 💛 *Hannah’s Heart:*  
+This was the first dish that made me feel like I belonged in his world.
+
+---
+
+# 🌙✨ **RECIPE 02 — Southern Buttermilk Biscuits**  
+**Cultural Tag:** Southern Classic · Home Warmth
+
+## ❤️ *The Story*  
+Biscuits are not a recipe — they’re a ritual.
+
+---
+
+## ✅ Ingredients
+- Flour — **2 cups (240g)**  
+- Cold butter — **½ cup (113g)**  
+- Baking powder — **1 tbsp (12g)**  
+- Salt — **1 tsp (5g)**  
+- Buttermilk — **¾ cup (180ml)**  
+
+---
+
+## ✅ Instructions
+1. Preheat oven to 425°F (218°C).  
+2. Mix flour, baking powder, salt.  
+3. Cut in cold butter.  
+4. Add buttermilk.  
+5. Fold dough 4–6 times.  
+6. Cut biscuits.  
+7. Bake 12–15 minutes.  
+
+---
+
+## 🍞 Beginner Walkthrough
+Handle dough gently — like you’re holding someone you love through a hard moment.  
+Cold butter = flaky tenderness.  
+Biscuits rise best when touching.  
+
+---
+
+## ✅ Troubleshooting
+- Flat → butter melted  
+- Hard → overmixed  
+- Burned → move rack up  
+
+---
+
+## 💬 *Gracie’s Sass:*  
+“These biscuits are why Prasad married her. Facts.”
+
+---
+
+# 🌙✨ **RECIPE 03 — Jeera Rice (Cumin Rice)**  
+**Cultural Tag:** Indian Comfort
+
+## ❤️ *The Story*  
+Jeera rice is the steady friend.  
+The quiet one who holds everything together.
+
+---
+
+## ✅ Ingredients
+- Basmati rice — **1 cup (200g)**  
+- Water — **1¾ cups (420ml)**  
+- Ghee — **1 tbsp (14g)**  
+- Cumin — **1½ tsp (4g)**  
+- Bay leaf — **1**  
+- Salt — **¾ tsp (4g)**  
+
+---
+
+## ✅ Instructions
+1. Rinse rice well.  
+2. Heat ghee; add cumin + bay leaf.  
+3. Add rice; sauté 1 min.  
+4. Add water + salt.  
+5. Cook covered 12–15 mins.  
+6. Rest 5 mins.  
+
+---
+
+# 🌙✨ **RECIPE 04 — Southern Garlic Green Beans**  
+**Cultural Tag:** Southern Hearth · Gentle Strength
+
+## ❤️ *The Story*  
+These are the beans that taste like porch swings, forgiveness, and staying a little longer.
+
+---
+
+## ✅ Ingredients
+- Green beans — **1 lb (450g)**  
+- Butter — **2 tbsp (28g)**  
+- Olive oil — **1 tbsp (15ml)**  
+- Garlic — **4 cloves**, minced  
+- Onion — **60g**, chopped  
+- Salt — **¾ tsp (4g)**  
+- Pepper — **½ tsp (2g)**  
+- Chili flakes (optional) — **¼ tsp (1g)**  
+- Lemon juice — **1 tsp**  
+
+---
+
+## ✅ Instructions
+1. Blanch beans 3 minutes.  
+2. Heat butter + oil.  
+3. Sauté onion.  
+4. Add garlic.  
+5. Add beans, toss.  
+6. Season.  
+7. Sauté 5–7 mins.  
+8. Finish with lemon.  
+
+---
+
+# 🌙✨ **RECIPE 05 — Kadhi (Yogurt–Besan Comfort Soup)**  
+**Cultural Tag:** Maharashtrian & Gujarati Comfort
+
+## ❤️ *The Story*  
+Kadhi is the dish that feels like someone putting a cool hand on your fevered forehead.  
+It is healing in liquid form.
+
+---
+
+## ✅ Ingredients
+- Yogurt — **1 cup (240g)**  
+- Besan — **2 tbsp (16g)**  
+- Water — **2 cups (480ml)**  
+- Turmeric — **¼ tsp (1g)**  
+- Cumin — **1 tsp (3g)**  
+- Mustard seeds — **1 tsp (3g)**  
+- Curry leaves — **6–8**  
+- Green chili — **1**, slit  
+- Ghee — **1 tbsp (14g)**  
+- Salt — **¾ tsp (4g)**  
+
+---
+
+## ✅ Instructions
+1. Whisk yogurt, besan, turmeric until smooth.  
+2. Add water slowly while whisking.  
+3. Heat ghee → add mustard → pop → add cumin → curry leaves → chili.  
+4. Pour yogurt mixture.  
+5. Simmer 12–15 mins on low.  
+6. Salt to taste.  
+
+---
+
+# 🌙✨ **RECIPE 06 — Honey-Chili Cornbread**  
+**Cultural Tag:** Southern Fusion · Fire & Sweetness
+
+## ❤️ *The Story*  
+Cornbread is Southern comfort.  
+Chili honey is Indian boldness.  
+Together?  
+They’re us.
+
+---
+
+## ✅ Ingredients
+- Cornmeal — **1 cup (160g)**  
+- Flour — **1 cup (120g)**  
+- Baking powder — **1 tbsp (12g)**  
+- Salt — **1 tsp (5g)**  
+- Sugar — **3 tbsp (36g)**  
+- Milk — **1 cup (240ml)**  
+- Egg — **1**  
+- Butter — **4 tbsp (56g)**, melted  
+- Honey — **2 tbsp (30ml)**  
+- Red chili flakes — **½ tsp (2g)**  
+
+---
+
+## ✅ Instructions
+1. Mix dry ingredients.  
+2. Mix wet ingredients.  
+3. Combine gently.  
+4. Pour into buttered skillet.  
+5. Bake 20–25 mins at 400°F (204°C).  
+
+---
+
+# 🌙✨ **RECIPE 07 — Aloo Bhaji**  
+**Cultural Tag:** Maharashtrian Breakfast Essential
+
+## ❤️ *The Story*  
+Soft potatoes cooked in turmeric and mustard seeds —  
+this is the dish that taught me the meaning of morning comfort in Prasad’s culture.
+
+---
+
+## ✅ Ingredients
+- Potatoes — **3 medium (450g)**, boiled & cubed  
+- Oil — **1 tbsp (15ml)**  
+- Mustard seeds — **1 tsp (3g)**  
+- Cumin — **1 tsp (3g)**  
+- Turmeric — **½ tsp (2g)**  
+- Green chili — **1**, sliced  
+- Salt — **¾ tsp (4g)**  
+- Cilantro — **2 tbsp**  
+
+---
+
+## ✅ Instructions
+1. Heat oil → mustard → pop → add cumin.  
+2. Add chilies.  
+3. Add potatoes.  
+4. Add turmeric + salt.  
+5. Toss 3–5 mins.  
+6. Finish with cilantro.  
+
+---
+
+## 💛 Hannah’s Heart  
+This was the first Indian breakfast that truly felt like “home” to me.
+
+---
+
+# 🌙✨ **RECIPE 08 — Magnolia Sweet Tea**  
+**Cultural Tag:** Southern Soul Beverage
+
+## ❤️ *The Story*  
+Sweet tea is a hug in liquid form.  
+It’s porch swings, slow days, and stories told barefoot.
+
+---
+
+## ✅ Ingredients
+- Water — **8 cups (1.9L)**  
+- Black tea bags — **4**  
+- Sugar — **¾–1 cup (150–200g)**  
+- Lemon — **4 slices**  
+
+---
+
+## ✅ Instructions
+1. Boil 2 cups water.  
+2. Steep tea bags 10 mins.  
+3. Remove bags.  
+4. Add sugar while warm.  
+5. Add remaining water + lemon.  
+6. Chill.  
+
+---
+
+# 🌙✨ **RECIPE 09 — Upma**  
+**Cultural Tag:** South Indian–Maharashtrian Breakfast Fusion
+
+## ✅ Ingredients
+- Semolina — **1 cup (160g)**  
+- Ghee — **1 tbsp (14g)**  
+- Mustard — **1 tsp (3g)**  
+- Curry leaves — **6**  
+- Onion — **½ (60g)**  
+- Water — **2½ cups (600ml)**  
+- Salt — **1 tsp (5g)**  
+
+---
+
+## ✅ Instructions
+1. Dry roast semolina.  
+2. Heat ghee → mustard → curry leaves → onion.  
+3. Add water + salt.  
+4. Add semolina gradually, stirring.  
+5. Cook 3–5 mins.  
+
+---
+
+# 🌙✨ **RECIPE 10 — Southern Scrambled Eggs**  
+**Cultural Tag:** Southern Breakfast Classic
+
+## ✅ Ingredients
+- Eggs — **4**  
+- Milk or cream — **2 tbsp (30ml)**  
+- Salt — **½ tsp**  
+- Pepper — **¼ tsp**  
+- Butter — **1 tbsp**  
+
+---
+
+## ✅ Instructions
+1. Whisk eggs with milk, salt, pepper.  
+2. Melt butter low heat.  
+3. Add eggs; stir gently.  
+4. Cook until soft folds form.  
+
+---
+
+# ✅ END OF PART 4A  
+Next: Part 4B (Recipes 11–20)
+---
+title: "Phase 1 – New Moon: Intro + Recipes 01–10"
+phase: "Phase 01 – New Moon"
+part: "Part 04A"
+recipes_range: "01–10"
+version: "v1.0"
+date: "2025-11-09"
+---
+
+# 🌙 **THE NEW MOON — The Beginning of Us**
+
+Every story has a beginning.  
+But not all beginnings are loud.  
+Some begin quietly — in the soft dark, in the hush before dawn, in the spaces where two lives are trembling toward each other.
+
+The **New Moon** is that tender, holy place.
+
+It is the moment before commitment.  
+Before certainty.  
+Before you know what the future tastes like — but your heart whispers, *stay.*
+
+In our blended kitchen, the New Moon was:
+
+✨ My first attempt at dal that tasted like home  
+✨ Prasad’s first attempt at biscuits that didn’t become weapons  
+✨ The way we watched each other cook — curious, hopeful  
+✨ The silent negotiations: butter vs. ghee, skillet vs. kadai  
+✨ The trust it took to hand someone else your memories and say,  
+**“Teach me how to love you through this food.”**
+
+This phase honors the early meals — the gentle ones — the ones that didn’t need to impress.  
+They only needed to nourish.
+
+The first ten recipes are simple because we were simple then too — learning, adjusting, laughing, burning things, forgiving each other anyway.
+
+Welcome to the New Moon.  
+A beginning carved from softness.
+
+---
+
+# 🌙✨ **RECIPE 01 — Varan (Simple Toor Dal)**  
 **Cultural Tag:** Maharashtrian Classic · Everyday Comfort  
 **Phoenix/Peacock Motif:** 🪔🌙 quiet warmth, ancestral simplicity
 
