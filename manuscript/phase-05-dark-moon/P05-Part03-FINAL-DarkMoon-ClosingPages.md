@@ -116,11 +116,11 @@ there is so much more to feed you.
 
 ---
 
-# 👩‍💻 **ABOUT THE AUTHOR — Hannah Nichole Kraulik Pagade**
+# 👩‍💻 **ABOUT THE AUTHOR — Hannah Kraulik Pagade**
 
-Hannah Nichole Kraulik Pagade is a Southern-born nurse, author, mother, wife, chai maker, and storyteller who sees food as the most universal form of love. With 15+ years as a nurse, Hannah brings empathy into every recipe, every story, and every memory shared throughout this book.
+Hannah Kraulik Pagade is a Southern-born nurse, author, mother, wife, chai maker, and storyteller who sees food as the most universal form of love. With 15+ years as a nurse, Hannah brings empathy into every recipe, every story, and every memory shared throughout this book.
 
-She is the co-founder of **Rohimaya Publishing** and **Two Peaks Chai Co.**, where she blends her Southern roots with her husband Prasad’s Maharashtrian heritage to create a life—and kitchen—full of fusion, healing, and connection.
+She is the co-founder of **Rohimaya Publishing LLC** and **Two Peaks Chai Co.**, where she blends her Southern roots with her husband Prasad’s Maharashtrian heritage to create a life—and kitchen—full of fusion, healing, and connection.
 
 Hannah writes with the same heart she cooks with:  
 unapologetically tender, deeply intuitive, and rooted in family.
@@ -129,8 +129,8 @@ She lives in Colorado with her husband Prasad, children Ethan, Gracie, Ayden, an
 
 For updates, signed copies, new recipes, and upcoming books:
 
-🌐 Rohimaya Publishing  
-📧 hello@twopeakschai.com  
+🌐 Rohimaya Publishing LLC  
+📧 hello@rohimayapublishing.com  
 📍 Westminster, Colorado
 
 ---

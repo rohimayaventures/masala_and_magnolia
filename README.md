@@ -25,7 +25,7 @@ You’ll find everything in: `manuscript/<phase>/<part>.md`
 - **Phase 4 — Waning Moon (40 recipes)**
 - **Phase 5 — Dark Moon (25 recipes)**
 
-Front matter (title, dedication, author’s note, Rohimaya Publishing, acknowledgments, ToC, and the **Cultural Pantry Essentials**) lives under `manuscript/front-matter/`.
+Front matter (title, dedication, author’s note, Rohimaya Publishing LLC, acknowledgments, ToC, and the **Cultural Pantry Essentials**) lives under `manuscript/front-matter/`.
 
 ## 📐 Recipe Standard (Non-Negotiable)
 Every recipe includes:
@@ -49,10 +49,10 @@ See `docs/RECIPE-TEMPLATE.md`.
 - CI checks: markdown lint + link check  
 - On release, `.md` bundles are zipped to `/dist`
 
-## 🕊️ About Rohimaya Publishing
+## 🕊️ About Rohimaya Publishing LLC
 Stories that **hold** you while you become.  
 Contact: **hello@rohimayapublishing.com**  
 Website: **https://rohimayapublishing.com**  
- © 2025 Rohimaya Publishing
+ © 2025 Rohimaya Publishing LLC
 
 > *“In our kitchen, the moon is a clock, the stove is a compass, and love is the only spice we never measure.”*

@@ -17,10 +17,10 @@ date: "2025-11-09"
 
 **Masala & Magnolia**  
 _A Journey of Recipes & Stories from Our Maharashtrian and Southern Kitchen_  
-Written by **Hannah Nichole Kraulik Pagade** & **Prasad Pagade**  
-Published by **Rohimaya Publishing**
+Written by **Hannah Kraulik Pagade** & **Prasad Pagade**  
+Published by **Rohimaya Publishing LLC**
 
-© 2025 Rohimaya Publishing. All rights reserved.
+© 2025 Rohimaya Publishing LLC. All rights reserved.
 
 This book is a blending —  
 of spice and softness,  
@@ -103,7 +103,7 @@ Welcome to our New Moon.
 
 ---
 
-# 🌕 **ABOUT ROHIMAYA PUBLISHING**
+# 🌕 **ABOUT ROHIMAYA PUBLISHING LLC**
 
 **Rohimaya** means _“a home built from love.”_
 
@@ -115,7 +115,7 @@ Our mission is to publish books born from:
 - spirit,
 - and the fierce courage of becoming.
 
-Rohimaya Publishing is the house where all our creative worlds meet —  
+Rohimaya Publishing LLC is the house where all our creative worlds meet —
 the chai business, the health-tech dreams, the romance novels,  
 and the stories simmering in our kitchen.
 

@@ -35,7 +35,7 @@ When the sky is dark, flavor becomes a form of hope.
 - Title Page
 - Dedication
 - Author’s Note
-- About Rohimaya Publishing
+- About Rohimaya Publishing LLC
 - Acknowledgments
 
 **Part 2** — Table of Contents _(this file)_

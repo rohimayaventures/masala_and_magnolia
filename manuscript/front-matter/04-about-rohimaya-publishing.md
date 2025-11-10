@@ -1,3 +1,3 @@
-# About Rohimaya Publishing
+# About Rohimaya Publishing LLC
 
 TODO: Add publisher blurb.
