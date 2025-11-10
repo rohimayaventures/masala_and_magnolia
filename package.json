@@ -1,0 +1,11 @@
+{
+  "name": "masala-and-magnolia",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint:md": "markdownlint '**/*.md' --ignore node_modules --ignore dist",
+    "check:links": "markdown-link-check -p '**/*.md' -q",
+    "format": "prettier -w '**/*.md'"
+  },
+  "devDependencies": {}
+}

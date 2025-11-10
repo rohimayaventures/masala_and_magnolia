@@ -1,0 +1,20 @@
+name: Build artifacts
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create dist
+        run: |
+          mkdir -p dist
+          zip -r dist/manuscript-${GITHUB_REF_NAME}.zip manuscript || true
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuscript-zip
+          path: dist/*.zip
